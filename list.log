@@ -1,0 +1,456 @@
+************************************************************
+FileName: objects/OrderItem.object
+FullName/Id: OrderItem/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/MacroAction.object
+FullName/Id: MacroAction/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/AccountCleanInfo.object
+FullName/Id: AccountCleanInfo/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/SocialPersona.object
+FullName/Id: SocialPersona/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Activity.object
+FullName/Id: Activity/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ContactCleanInfo.object
+FullName/Id: ContactCleanInfo/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/AssetRelationship.object
+FullName/Id: AssetRelationship/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/OpportunityContactRole.object
+FullName/Id: OpportunityContactRole/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/TopicAssignment.object
+FullName/Id: TopicAssignment/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Event.object
+FullName/Id: Event/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/CaseContactRole.object
+FullName/Id: CaseContactRole/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Scorecard.object
+FullName/Id: Scorecard/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/OrgDeleteRequest.object
+FullName/Id: OrgDeleteRequest/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/OpportunityCompetitor.object
+FullName/Id: OpportunityCompetitor/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/QuickText.object
+FullName/Id: QuickText/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Idea.object
+FullName/Id: Idea/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ContentVersion.object
+FullName/Id: ContentVersion/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Macro.object
+FullName/Id: Macro/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/EmailMessage.object
+FullName/Id: EmailMessage/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/DuplicateRecordItem.object
+FullName/Id: DuplicateRecordItem/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Topic.object
+FullName/Id: Topic/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Asset.object
+FullName/Id: Asset/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/LeadCleanInfo.object
+FullName/Id: LeadCleanInfo/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/User.object
+FullName/Id: User/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ForecastingCategoryMapping.object
+FullName/Id: ForecastingCategoryMapping/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ScorecardAssociation.object
+FullName/Id: ScorecardAssociation/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/CollaborationGroup.object
+FullName/Id: CollaborationGroup/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Pricebook2.object
+FullName/Id: Pricebook2/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/CampaignMember.object
+FullName/Id: CampaignMember/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/AssistantProgress.object
+FullName/Id: AssistantProgress/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ContractContactRole.object
+FullName/Id: ContractContactRole/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/MacroInstruction.object
+FullName/Id: MacroInstruction/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Site.object
+FullName/Id: Site/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Security_Testing__c.object
+FullName/Id: Security_Testing__c/01I7F000001K9xAUAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/AccountContactRole.object
+FullName/Id: AccountContactRole/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/CollaborationGroupMember.object
+FullName/Id: CollaborationGroupMember/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/PricebookEntry.object
+FullName/Id: PricebookEntry/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Task.object
+FullName/Id: Task/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/UserProvisioningRequest.object
+FullName/Id: UserProvisioningRequest/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/StreamingChannel.object
+FullName/Id: StreamingChannel/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Solution.object
+FullName/Id: Solution/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Opportunity.object
+FullName/Id: Opportunity/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/PartnerRole.object
+FullName/Id: PartnerRole/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/OpportunityLineItem.object
+FullName/Id: OpportunityLineItem/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/DuplicateRecordSet.object
+FullName/Id: DuplicateRecordSet/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Product2.object
+FullName/Id: Product2/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/DandBCompany.object
+FullName/Id: DandBCompany/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Contract.object
+FullName/Id: Contract/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/FeedItem.object
+FullName/Id: FeedItem/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ScorecardMetric.object
+FullName/Id: ScorecardMetric/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Campaign.object
+FullName/Id: Campaign/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Order.object
+FullName/Id: Order/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/ExchangeUserMapping.object
+FullName/Id: ExchangeUserMapping/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
+************************************************************
+FileName: objects/Case.object
+FullName/Id: Case/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+Last Modified By (Name/Id): Anurag Bhardwaj/0057F000002CKnNQAW
+************************************************************
